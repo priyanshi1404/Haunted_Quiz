@@ -46,7 +46,6 @@ A spine-chilling interactive quiz website built with HTML, CSS, and JavaScript. 
 
 **Priyanshi Mittal**  
 Frontend Developer & Curious Explorer of Cyber Worlds  
-🔗 [LinkedIn](www.linkedin.com/in/priyanshi-mittal14)
 
 ---
 
