@@ -29,7 +29,7 @@ A spine-chilling interactive quiz website built with HTML, CSS, and JavaScript. 
 
 ## 🚀 Live Demo
 
-👉 [Click here to visit the live website]((https://hauntedquiz.netlify.app/))  
+👉 [Click here to visit the live website](https://hauntedquiz.netlify.app/) 
 
 
 ## 📸 Preview
