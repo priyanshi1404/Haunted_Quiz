@@ -34,7 +34,7 @@ A spine-chilling interactive quiz website built with HTML, CSS, and JavaScript. 
 
 ## 📸 Preview
 
-![Haunted Quiz Preview](images/preview.png)
+![Haunted Quiz Preview](preview.png)
 
 ## ✨ Credits
 
